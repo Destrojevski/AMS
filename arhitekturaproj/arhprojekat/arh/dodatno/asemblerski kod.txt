@@ -1,0 +1,7 @@
+lui x10,1
+addi x10,x10,1
+lui x11,1
+addi x11,x11,2
+addi x5,x5,1
+labela:add x10,x10,x5
+beq x11,x10,labela

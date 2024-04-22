@@ -1,0 +1,20 @@
+0.7
+2020.2
+May  7 2023
+15:24:31
+D:/arhitekturaproj/arhprojekat/arh/RV32I/RISCV_tb/BRAM_byte_addressable.vhd,1679321336,vhdl,D:/arhitekturaproj/arhprojekat/arh/RV32I/RISCV_tb/TOP_RISCV_tb.vhd,,,bram,,,,,,,,
+D:/arhitekturaproj/arhprojekat/arh/RV32I/RISCV_tb/TOP_RISCV_tb.vhd,1679321336,vhdl,,,,top_riscv_tb,,,,,,,,
+D:/arhitekturaproj/arhprojekat/arh/RV32I/TOP_RISCV.vhd,1713706556,vhdl,D:/arhitekturaproj/arhprojekat/arh/RV32I/RISCV_tb/TOP_RISCV_tb.vhd,,,top_riscv,,,,,,,,
+D:/arhitekturaproj/arhprojekat/arh/RV32I/control_path/alu_decoder.vhd,1679321336,vhdl,D:/arhitekturaproj/arhprojekat/arh/RV32I/control_path/control_path.vhd,,,alu_decoder,,,,,,,,
+D:/arhitekturaproj/arhprojekat/arh/RV32I/control_path/control_path.vhd,1713701178,vhdl,D:/arhitekturaproj/arhprojekat/arh/RV32I/TOP_RISCV.vhd,,,control_path,,,,,,,,
+D:/arhitekturaproj/arhprojekat/arh/RV32I/control_path/ctrl_decoder.vhd,1713694504,vhdl,D:/arhitekturaproj/arhprojekat/arh/RV32I/control_path/control_path.vhd,,,ctrl_decoder,,,,,,,,
+D:/arhitekturaproj/arhprojekat/arh/RV32I/control_path/forwarding_unit.vhd,1679321336,vhdl,D:/arhitekturaproj/arhprojekat/arh/RV32I/control_path/control_path.vhd,,,forwarding_unit,,,,,,,,
+D:/arhitekturaproj/arhprojekat/arh/RV32I/control_path/hazard_unit.vhd,1679321336,vhdl,D:/arhitekturaproj/arhprojekat/arh/RV32I/control_path/control_path.vhd,,,hazard_unit,,,,,,,,
+D:/arhitekturaproj/arhprojekat/arh/RV32I/data_path/ALU_simple.vhd,1679321336,vhdl,D:/arhitekturaproj/arhprojekat/arh/RV32I/data_path/data_path.vhd,,,alu,,,,,,,,
+D:/arhitekturaproj/arhprojekat/arh/RV32I/data_path/data_path.vhd,1713694946,vhdl,D:/arhitekturaproj/arhprojekat/arh/RV32I/TOP_RISCV.vhd,,,data_path,,,,,,,,
+D:/arhitekturaproj/arhprojekat/arh/RV32I/data_path/immediate.vhd,1713706700,vhdl,D:/arhitekturaproj/arhprojekat/arh/RV32I/data_path/data_path.vhd,,,immediate,,,,,,,,
+D:/arhitekturaproj/arhprojekat/arh/RV32I/data_path/register_bank.vhd,1679321336,vhdl,D:/arhitekturaproj/arhprojekat/arh/RV32I/data_path/data_path.vhd,,,register_bank,,,,,,,,
+D:/arhitekturaproj/arhprojekat/arh/RV32I/packages/alu_ops_pkg.vhd,1713689986,vhdl,D:/arhitekturaproj/arhprojekat/arh/RV32I/control_path/alu_decoder.vhd;D:/arhitekturaproj/arhprojekat/arh/RV32I/data_path/ALU_simple.vhd,,,alu_ops_pkg,,,,,,,,
+D:/arhitekturaproj/arhprojekat/arh/RV32I/packages/controlpath_signals_pkg.vhd,1713691122,vhdl,D:/arhitekturaproj/arhprojekat/arh/RV32I/control_path/control_path.vhd,,,controlpath_signals_pkg,,,,,,,,
+D:/arhitekturaproj/arhprojekat/arh/RV32I/packages/datapath_signals_pkg.vhd,1713692068,vhdl,D:/arhitekturaproj/arhprojekat/arh/RV32I/data_path/data_path.vhd,,,datapath_signals_pkg,,,,,,,,
+D:/arhitekturaproj/arhprojekat/arh/RV32I/packages/txt_util.vhd,1678716070,vhdl,D:/arhitekturaproj/arhprojekat/arh/RV32I/RISCV_tb/TOP_RISCV_tb.vhd,,,txt_util,,,,,,,,
